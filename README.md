@@ -27,7 +27,8 @@ Ilustración 4 - Perfil-Inicio-Reviews
 
 Dentro de la pantalla perfil, podemos ir también a Perfil-Explorar, donde podemos buscar cualquier película perteneciente a nuestra base de datos (la cual cuenta actualmente con 600 películas y series entre los años 2002 – 2021. 
 En Perfil-Explorar, introducimos un nombre de película/serie, o una parte del mismo y aparecerán todas las películas/series/usuarios que contengan el parámetro buscado. Por ejemplo, si buscamos “fa”, este es el resultado: 
- ![image](https://user-images.githubusercontent.com/97603106/203038782-b9c0e379-b94d-464a-b8ad-5d0c3f92ee0d.png)
+![image](https://user-images.githubusercontent.com/97603106/203038782-b9c0e379-b94d-464a-b8ad-5d0c3f92ee0d.png)
+
 Ilustración 5 - Perfil-Explorar búsqueda "fa"
 
 También podemos buscar por años introduciendo un año entre 2002 y 2021 (incluidos).
@@ -42,7 +43,7 @@ Al lado de cada película/serie tenemos el botón  , con la opción de añadir l
 Ilustración 7 - Perfil-Explorar-Opción agregar/valorar búsqueda
 
 Además de Inicio y Perfil, también podemos ir a Añadir playlist, donde se debe introducir un nombre a la playlist y un id numérico asociado. En el futuro, será el propio programa el que se encargue de darle un id numérico único a cada playlist creada. 
- ![image](https://user-images.githubusercontent.com/97603106/203038938-8592cb3b-4be1-4c48-bf18-74643f33404d.png)
+![image](https://user-images.githubusercontent.com/97603106/203038938-8592cb3b-4be1-4c48-bf18-74643f33404d.png)
  
 Ilustración 8 - Perfil-Añadir playlist
 
