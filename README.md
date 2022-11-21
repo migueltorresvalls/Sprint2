@@ -27,17 +27,20 @@ Ilustración 4 - Perfil-Inicio-Reviews
 
 Dentro de la pantalla perfil, podemos ir también a Perfil-Explorar, donde podemos buscar cualquier película perteneciente a nuestra base de datos (la cual cuenta actualmente con 600 películas y series entre los años 2002 – 2021. 
 En Perfil-Explorar, introducimos un nombre de película/serie, o una parte del mismo y aparecerán todas las películas/series/usuarios que contengan el parámetro buscado. Por ejemplo, si buscamos “fa”, este es el resultado: 
+
 ![image](https://user-images.githubusercontent.com/97603106/203038782-b9c0e379-b94d-464a-b8ad-5d0c3f92ee0d.png)
 
 Ilustración 5 - Perfil-Explorar búsqueda "fa"
 
 También podemos buscar por años introduciendo un año entre 2002 y 2021 (incluidos).
 Si le damos a buscar poniendo la barra de buscar en blanco, nos aparecerán todos los usuarios y películas/series que contiene nuestra aplicación (al tener que mostrar más de 600 resultados, tardará más en cargar). 
+
 ![image](https://user-images.githubusercontent.com/97603106/203038843-d5066087-a1b3-4432-9593-2b3a13a463fc.png)
 
 Ilustración 6 - Perfil-Explorar búsqueda en blanco
 
 Al lado de cada película/serie tenemos el botón  , con la opción de añadir la película/serie a alguna playlist o hacer una valoración de la misma. Estas funcionalidades todavía no están implementadas. 
+
 ![image](https://user-images.githubusercontent.com/97603106/203038893-e77139e1-00a8-43f1-bad0-f89eff086474.png) 
 
 Ilustración 7 - Perfil-Explorar-Opción agregar/valorar búsqueda
