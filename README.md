@@ -46,6 +46,7 @@ Al lado de cada película/serie tenemos el botón  , con la opción de añadir l
 Ilustración 7 - Perfil-Explorar-Opción agregar/valorar búsqueda
 
 Además de Inicio y Perfil, también podemos ir a Añadir playlist, donde se debe introducir un nombre a la playlist y un id numérico asociado. En el futuro, será el propio programa el que se encargue de darle un id numérico único a cada playlist creada. 
+
 ![image](https://user-images.githubusercontent.com/97603106/203038938-8592cb3b-4be1-4c48-bf18-74643f33404d.png)
  
 Ilustración 8 - Perfil-Añadir playlist
